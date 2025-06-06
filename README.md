@@ -1,5 +1,5 @@
 # touchx
-`touch` extra, **touchx** is like `touch` but automatically creates any missing parent directories before creating the file.
+`touch` extra, `touchx` is like `touch` but automatically creates any missing parent directories before creating the file.
 
 `touchx` is not a replacement for `touch`.
 
