@@ -27,4 +27,6 @@ func main() {
 		}
 		file.Close()
 	}
+
+	slog.Info("done")
 }
